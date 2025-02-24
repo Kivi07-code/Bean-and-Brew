@@ -23,6 +23,7 @@
 </div>
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
         <div class="bg-gray-50 text-black/50 dark:bg-black dark:text-white/50">
+            
             <video id="background" class="absolute top-0 " src="https://videos.pexels.com/video-files/2909916/2909916-uhd_2732_1440_24fps.mp4" type="video/mp4" alt="background">
             </video>
           <style>
