@@ -64,7 +64,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
       <hr>
       
       <h1><b>Latte</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$3.00</span></h1>
-      <p class="w3-text-grey">Fresh tomatoes, mozzarella, chicken, onions</p>
+      <p class="w3-text-grey">typical layered coffee and milk</p>
       <hr>
 
       <h1><b>Esspresso</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$2.50</span></h1>
@@ -120,7 +120,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
 
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-48 w3-xxlarge">
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">Mantis Solutions</a></p>
+  <p>Powered by <a href="" title="W3.CSS" target="_blank" class="w3-hover-text-green">Mantis Solutions</a></p>
 </footer>
 
 <script>

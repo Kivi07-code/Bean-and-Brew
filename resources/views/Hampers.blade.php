@@ -36,7 +36,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 
   <!-- Header -->
   <header id="Hampers">
-    <a href="#"><img src="/w3https://www.thegoodfoodandwinecompany.com/wp-content/uploads/2020/06/Titanic-Tea-Coffee-shortbread-green-50.jpg" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
+    <a href="#"><img src="/w3https://i.etsystatic.com/19119334/r/il/e77e87/4255511270/il_fullxfull.4255511270_79nd.jpg" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
     <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
     <div class="w3-container">
     <h1 color="white"><b>Hampers</b></h1>
@@ -54,24 +54,27 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
    
   <div class="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="https://www.thegoodfoodandwinecompany.com/wp-content/uploads/2020/06/Titanic-Tea-Coffee-shortbread-green-50.jpg" alt="Hamper" style="width:100%" class="w3-hover-opacity">
+      <img src="https://i.etsystatic.com/19119334/r/il/e77e87/4255511270/il_fullxfull.4255511270_79nd.jpg" alt="Hamper" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
-        <p><b>Producct</b></p>
-        <p>description of product</p>
+        <p><b>Coffee Hamper</b></p>
+        <p>a basket with only coffee related products</p>
+        <p><bold>£12.50</bold></p>
       </div>
     </div>
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="https://www.thegoodfoodandwinecompany.com/wp-content/uploads/2020/06/Titanic-Tea-Coffee-shortbread-green-50.jpg" alt="Hamper" style="width:100%" class="w3-hover-opacity">
+      <img src="https://i.etsystatic.com/19119334/r/il/e77e87/4255511270/il_fullxfull.4255511270_79nd.jpg" alt="Hamper" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
-        <p><b>Product</b></p>
-        <p>description of product</p>
+        <p><b>Tea Hamper</b></p>
+        <p>a basket full of tea based snacks and materials</p>
+        <p><bold>£11.50</bold></p>
       </div>
     </div>
     <div class="w3-third w3-container">
-      <img src="https://www.thegoodfoodandwinecompany.com/wp-content/uploads/2020/06/Titanic-Tea-Coffee-shortbread-green-50.jpg" alt="Hamper" style="width:100%" class="w3-hover-opacity">
+      <img src="https://i.etsystatic.com/19119334/r/il/e77e87/4255511270/il_fullxfull.4255511270_79nd.jpg" alt="Hamper" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
-        <p><b>Product</b></p>
-        <p>description of product</p>
+        <p><b>Custom Hamper</b></p>
+        <p>a basket full of items of your choice</p>
+        <p><bold>£14.70</bold></p>
       </div>
     </div>
   </div>
@@ -79,24 +82,27 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
   <!-- Second Photo Grid-->
   <div class="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="https://www.thegoodfoodandwinecompany.com/wp-content/uploads/2020/06/Titanic-Tea-Coffee-shortbread-green-50.jpg" alt="Hamper" style="width:100%" class="w3-hover-opacity">
+      <img src="https://i.etsystatic.com/19119334/r/il/e77e87/4255511270/il_fullxfull.4255511270_79nd.jpg" alt="Hamper" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
-        <p><b>Product</b></p>
-        <p>description of product</p>
+        <p><b>Liqour hamper</b></p>
+        <p>Basket with alcohol and other snacks</p>
+        <p><bold>£18.90</bold></p>
       </div>
     </div>
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="https://www.thegoodfoodandwinecompany.com/wp-content/uploads/2020/06/Titanic-Tea-Coffee-shortbread-green-50.jpg" alt="Hamper" style="width:100%" class="w3-hover-opacity">
+      <img src="https://i.etsystatic.com/19119334/r/il/e77e87/4255511270/il_fullxfull.4255511270_79nd.jpg" alt="Hamper" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
-        <p><b>Product</b></p>
-        <p>description of product</p>
+        <p><b>Family Hamper</b></p>
+        <p>Basket designed to share with the family</p>
+        <p><bold>£15.10</bold></p>
       </div>
     </div>
     <div class="w3-third w3-container">
-      <img src="https://www.thegoodfoodandwinecompany.com/wp-content/uploads/2020/06/Titanic-Tea-Coffee-shortbread-green-50.jpg" alt="Hamper" style="width:100%" class="w3-hover-opacity">
+      <img src="https://i.etsystatic.com/19119334/r/il/e77e87/4255511270/il_fullxfull.4255511270_79nd.jpg" alt="Hamper" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
-        <p><b>Product</b></p>
-        <p>description of product</p>
+        <p><b>Singles Hamper</b></p>
+        <p>a basket with snacks for one person</p>
+        <p><bold>£11.80</bold></p>
       </div>
     </div>
   </div>
