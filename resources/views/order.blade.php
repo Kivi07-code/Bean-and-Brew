@@ -5,18 +5,19 @@
         </h2>
     </x-slot>
 
+
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900 dark:text-gray-100">
-                    {{ __("Look through the menu and buy") }}
+                    {{ __("Look through our menu") }}
                 </div>
             </div>
         </div>
     </div>
     <html>
 <head>
-<title>W3.CSS Template</title>
+<title w3-color-white>Drinks Menu</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -43,74 +44,74 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
     <h1 class="w3-center w3-jumbo" style="margin-bottom:64px">THE MENU</h1>
     <div class="w3-row w3-center w3-border w3-border-dark-grey">
       <a href="javascript:void(0)" onclick="openMenu(event, 'Pizza');" id="myLink">
-        <div class="w3-col s4 tablink w3-padding-large w3-hover-red">Pizza</div>
+        <div class="w3-col s4 tablink w3-padding-large w3-hover-red">Coffee</div>
       </a>
       <a href="javascript:void(0)" onclick="openMenu(event, 'Pasta');">
-        <div class="w3-col s4 tablink w3-padding-large w3-hover-red">Salads</div>
+        <div class="w3-col s4 tablink w3-padding-large w3-hover-red">Tea and Boba</div>
       </a>
       <a href="javascript:void(0)" onclick="openMenu(event, 'Starter');">
-        <div class="w3-col s4 tablink w3-padding-large w3-hover-red">Starter</div>
+        <div class="w3-col s4 tablink w3-padding-large w3-hover-red">Soft drinks</div>
       </a>
     </div>
 
     <div id="Pizza" class="w3-container menu w3-padding-32 w3-white">
-      <h1><b>Margherita</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$12.50</span></h1>
-      <p class="w3-text-grey">Fresh tomatoes, fresh mozzarella, fresh basil</p>
+      <h1><b>Americano</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$2.50</span></h1>
+      <p class="w3-text-grey">Freshley brewed black esspresso with hot water</p>
       <hr>
    
-      <h1><b>Formaggio</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$15.50</span></h1>
-      <p class="w3-text-grey">Four cheeses (mozzarella, parmesan, pecorino, jarlsberg)</p>
+      <h1><b>Cappucchino</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$5.50</span></h1>
+      <p class="w3-text-grey">An esspresso made with steamed milk and a cream crown on top</p>
       <hr>
       
-      <h1><b>Chicken</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$17.00</span></h1>
-      <p class="w3-text-grey">Fresh tomatoes, mozzarella, chicken, onions</p>
+      <h1><b>Latte</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$3.00</span></h1>
+      <p class="w3-text-grey">typical layered coffee and milk</p>
       <hr>
 
-      <h1><b>Pineapple'o'clock</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$16.50</span></h1>
-      <p class="w3-text-grey">Fresh tomatoes, mozzarella, fresh pineapple, bacon, fresh basil</p>
+      <h1><b>Esspresso</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$2.50</span></h1>
+      <p class="w3-text-grey">Just a casual black coffee steam with coffee beans</p>
       <hr>
 
-      <h1><b>Meat Town</b> <span class="w3-tag w3-red w3-round">Hot!</span><span class="w3-right w3-tag w3-dark-grey w3-round">$20.00</span></h1>
-      <p class="w3-text-grey">Fresh tomatoes, mozzarella, hot pepporoni, hot sausage, beef, chicken</p>
+      <h1><b>Flat white</b> <span class="w3-tag w3-red w3-round">Hot!</span><span class="w3-right w3-tag w3-dark-grey w3-round">$2.90</span></h1>
+      <p class="w3-text-grey">Similar to a latte but with a lrager milk to coffee proportion</p>
       <hr>
 
-      <h1><b>Parma</b> <span class="w3-tag w3-grey w3-round">New</span><span class="w3-right w3-tag w3-dark-grey w3-round">$21.50</span></h1>
-      <p class="w3-text-grey">Fresh tomatoes, mozzarella, parma, bacon, fresh arugula</p>
+      <h1><b>Cafe au lait</b> <span class="w3-tag w3-grey w3-round">New</span><span class="w3-right w3-tag w3-dark-grey w3-round">$3.50</span></h1>
+      <p class="w3-text-grey">A strong dip pf coffee with fired milk</p>
     </div>
 
     <div id="Pasta" class="w3-container menu w3-padding-32 w3-white">
-      <h1><b>Lasagna</b> <span class="w3-tag w3-grey w3-round">Popular</span> <span class="w3-right w3-tag w3-dark-grey w3-round">$13.50</span></h1>
-      <p class="w3-text-grey">Special sauce, mozzarella, parmesan, ground beef</p>
+      <h1><b>Green tea</b> <span class="w3-tag w3-grey w3-round">Popular</span> <span class="w3-right w3-tag w3-dark-grey w3-round">$2.10</span></h1>
+      <p class="w3-text-grey">just a green tea bag and hot water</p>
       <hr>
    
-      <h1><b>Ravioli</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$14.50</span></h1>
-      <p class="w3-text-grey">Ravioli filled with cheese</p>
+      <h1><b>Matcha Boba</b> <span class="w3-right w3-tag w3-dark-grey w3-round">4.90</span></h1>
+      <p class="w3-text-grey">Matcha cup with tapioca pearls</p>
       <hr>
       
-      <h1><b>Spaghetti Classica</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$11.00</span></h1>
-      <p class="w3-text-grey">Fresh tomatoes, onions, ground beef</p>
+      <h1><b>Taro Boba</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$5.00</span></h1>
+      <p class="w3-text-grey">Taro fruit flavoured drink with taro balls</p>
       <hr>
 
-      <h1><b>Seafood pasta</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$25.50</span></h1>
-      <p class="w3-text-grey">Salmon, shrimp, lobster, garlic</p>
+      <h1><b>Oolong Tea</b> <span class="w3-right w3-tag w3-dark-grey w3-round">4.50</span></h1>
+      <p class="w3-text-grey">Fresh oolong roasted tea, goes well with pearls</p>
     </div>
 
 
     <div id="Starter" class="w3-container menu w3-padding-32 w3-white">
-      <h1><b>Today's Soup</b> <span class="w3-tag w3-grey w3-round">Seasonal</span><span class="w3-right w3-tag w3-dark-grey w3-round">$5.50</span></h1>
+      <h1><b>Todays drink</b> <span class="w3-tag w3-grey w3-round">Seasonal</span><span class="w3-right w3-tag w3-dark-grey w3-round">$5.50</span></h1>
       <p class="w3-text-grey">Ask the waiter</p>
       <hr>
    
-      <h1><b>Bruschetta</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$8.50</span></h1>
-      <p class="w3-text-grey">Bread with pesto, tomatoes, onion, garlic</p>
+      <h1><b>Coca Cola</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$2.50</span></h1>
+      <p class="w3-text-grey">classic coke, available in zero sugar</p>
       <hr>
       
-      <h1><b>Garlic bread</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$9.50</span></h1>
-      <p class="w3-text-grey">Grilled ciabatta, garlic butter, onions</p>
+      <h1><b>Fanta</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$2.50</span></h1>
+      <p class="w3-text-grey">Orange european Fanta available in berry flavour also</p>
       <hr>
       
-      <h1><b>Tomozzarella</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$10.50</span></h1>
-      <p class="w3-text-grey">Tomatoes and mozzarella</p>
+      <h1><b>Sprite</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$10.50</span></h1>
+      <p class="w3-text-grey">Bubbly water</p>
     </div><br>
 
   </div>
@@ -119,7 +120,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
 
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-48 w3-xxlarge">
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">Mantis Solutions</a></p>
+  <p>Powered by <a href="" title="W3.CSS" target="_blank" class="w3-hover-text-green">Mantis Solutions</a></p>
 </footer>
 
 <script>

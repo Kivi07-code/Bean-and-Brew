@@ -27,6 +27,13 @@ Route::get('/hampers', function () {
     return view('hampers');
 })->middleware(['auth', 'verified'])->name('hampers');
 
+
+Route::get('/locatio s', function () {
+    return view('locations');
+})->middleware(['auth', 'verified'])->name('locations');
+
+
+
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');

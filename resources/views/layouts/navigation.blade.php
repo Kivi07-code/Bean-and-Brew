@@ -27,6 +27,12 @@
                     <x-nav-link :href="route('hampers')" :active="request()->routeIs('hampers')">
                         {{ __('hampers') }}
                     </x-nav-link>
+                    
+                    <x-nav-link :href="route('locations')" :active="request()->routeIs('locations')">
+                    <img data-cy="iconsbar__storelocatoricon" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyNSIgdmlld0JveD0iMCAwIDIwIDI1Ij4KICAgIDxnIGZpbGw9IiNGRkYiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPHBhdGggZD0iTTkuOTg1IDEuNjYzQzUuMzYgMS42NjMgMS42IDUuMjE3IDEuNiA5LjU4NWMwIDIuNDE1IDEuMzU1IDUuODA3IDMuNjI1IDkuMDc2IDIuMjk0IDMuMzA0IDQuMjYyIDQuNzMzIDQuNzYgNC43MzMuNDk3IDAgMi40NjYtMS40MjkgNC43Ni00LjczMyAyLjI3LTMuMjY4IDMuNjI0LTYuNjYxIDMuNjI0LTkuMDc2IDAtNC4zNjgtMy43NjEtNy45MjItOC4zODQtNy45MjJtMCAyMy4yNDNjLTEuNzI1IDAtNC4zNjMtMi45MTctNi4wOTgtNS40MTZDMi43MTggMTcuODA3IDAgMTMuNDczIDAgOS41ODUgMCA0LjM4MyA0LjQ4LjE1MSA5Ljk4NS4xNTFjNS41MDUgMCA5Ljk4NCA0LjIzMiA5Ljk4NCA5LjQzNCAwIDMuODg4LTIuNzE4IDguMjIyLTMuODg2IDkuOTA1LTEuNzM1IDIuNDk5LTQuMzczIDUuNDE2LTYuMDk4IDUuNDE2Ii8+CiAgICAgICAgPHBhdGggZD0iTTkuOTgyIDYuMzk1Yy0xLjgxNCAwLTMuMjkgMS4zOTUtMy4yOSAzLjExIDAgMS43MTMgMS40NzYgMy4xMDggMy4yOSAzLjEwOHMzLjI5LTEuMzk1IDMuMjktMy4xMDktMS40NzYtMy4xMDktMy4yOS0zLjEwOW0wIDcuNzNjLTIuNjk2IDAtNC44OS0yLjA3My00Ljg5LTQuNjIgMC0yLjU0OSAyLjE5NC00LjYyMSA0Ljg5LTQuNjIxIDIuNjk3IDAgNC44OSAyLjA3MiA0Ljg5IDQuNjJzLTIuMTkzIDQuNjItNC44OSA0LjYyIi8+CiAgICA8L2c+Cjwvc3ZnPg==" alt="Store locator" class="iconsBar__StoreLocatorIcon-sc-8nib5q-1 kAvAWB">
+                    
+
+                    </x-nav-link>
                 </div>
             </div>
 
